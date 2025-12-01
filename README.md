@@ -1,5 +1,6 @@
 ## Implement a Sudoku Solver From Scratch
 ## Steps to solve the Sudoku Puzzle in Python
+
 1.In this method for solving the sudoku puzzle, first, we assign the size of the 2D matrix to a variable M (M*M).
 2.Then we assign the utility function (puzzle) to print the grid.
 3.Later it will assign num to the row and col.
